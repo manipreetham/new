@@ -1,9 +1,8 @@
 # soi batch2 readme 
 ## all the eginnering 
 *italic*
-
 **bold**
-
+#### Footnote12[^2]
 ***bold-italic***
 
 ~~strickthrough~~
@@ -55,3 +54,11 @@ scanf("%d,%d",&a,&b);
 #### Footnote[^1]
 
 [^1]:footnote
+
+[^2]:footnote12
+
+
+|name|college|District|
+|----|---|---|
+|bhuvana|abc|dfg|
+
