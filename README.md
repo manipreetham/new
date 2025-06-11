@@ -6,12 +6,12 @@
 
 ***bold-italic***
 
-###ordered list (1,2,3..)
+### ordered list (1,2,3..)
 1. first line
 2. second line
 3. third line
 
-####unorder list (-,+)
+#### unorder list (-,+)
 - first line 
 + second line 
 - thrid line 
@@ -30,8 +30,9 @@ scanf("%d,%d",&a,&b);
 }
 ```
 
-#####horizontal line(3--- or more that 3 ------)
+##### horizontal line(3--- or more that 3 ------)
 -------------
-######insert any url
-[my](google.com)
+###### insert any url
+
+[my](https://www.google.com/)
 
