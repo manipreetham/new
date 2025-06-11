@@ -6,6 +6,8 @@
 
 ***bold-italic***
 
+~~strickthrough~~
+
 ### ordered list (1,2,3..)
 1. first line
 2. second line
@@ -40,7 +42,7 @@ scanf("%d,%d",&a,&b);
 
 ###### insert any image 
 
-![image](C:\Users\ManiPreetham\Downloads\pexels-anjana-c-169994-674010.jpg)
+![image](https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?_gl=1*muoa7a*_ga*NjkyMDgxOTgwLjE3NDk2MzY0NzY.*_ga_8JE65Q40S6*czE3NDk2MzY0NzUkbzEkZzAkdDE3NDk2MzY0NzUkajYwJGwwJGgw)
 
 #### check list
 
