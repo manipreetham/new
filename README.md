@@ -54,4 +54,4 @@ scanf("%d,%d",&a,&b);
 
 #### Footnote[^1]
 
-footnote [^1]
+[^1]:footnote
