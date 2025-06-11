@@ -41,3 +41,10 @@ scanf("%d,%d",&a,&b);
 ###### insert any image 
 
 ![image](C:\Users\ManiPreetham\Downloads\pexels-anjana-c-169994-674010.jpg)
+
+#### check list
+
+- [x] aws
+- [x] linux
+- [ ] git
+- [ ] devops
