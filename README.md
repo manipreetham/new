@@ -18,8 +18,8 @@
 
 > Black Quote(highlet mark)
 
-`
-for single line code ` 
+`for single line code ` 
+
 **for mutiple line of code**
 ```
 #include<stdio.h>
@@ -30,6 +30,8 @@ scanf("%d,%d",&a,&b);
 }
 ```
 
-######horizontal line
----------------
+#####horizontal line(3--- or more that 3 ------)
+-------------
+######insert any url
+[my](google.com)
 
