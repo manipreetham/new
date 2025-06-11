@@ -50,3 +50,8 @@ scanf("%d,%d",&a,&b);
 - [x] linux
 - [ ] git
 - [ ] devops
+
+
+#### Footnote[^1]
+
+footnote [^1]
