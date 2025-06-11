@@ -38,6 +38,6 @@ scanf("%d,%d",&a,&b);
 
 
 
-####### insert any image 
+###### insert any image 
 
 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fbeautiful%2F&psig=AOvVaw2VtaVI19xoMg3_lzu6W5E_&ust=1749722550667000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCU3M2O6Y0DFQAAAAAdAAAAABAE)
