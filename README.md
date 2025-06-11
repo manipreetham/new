@@ -1,7 +1,7 @@
 # soi batch2 readme 
 ## all the eginnering 
 *italic*
-#### Footnote[^1]
+
 **bold**
 
 ***bold-italic***
@@ -52,6 +52,6 @@ scanf("%d,%d",&a,&b);
 - [ ] devops
 
 
-
+#### Footnote[^1]
 
 [^1]:footnote
