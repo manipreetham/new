@@ -17,7 +17,10 @@
 - thrid line 
 
 > Black Quote(highlet mark)
-` for single line code  
+
+`
+for single line code ` 
+**for mutiple line of code**
 ```
 #include<stdio.h>
 int main(){
@@ -27,4 +30,6 @@ scanf("%d,%d",&a,&b);
 }
 ```
 
+######horizontal line
+---------------
 
