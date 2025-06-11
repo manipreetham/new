@@ -17,12 +17,14 @@
 - thrid line 
 
 > Black Quote(highlet mark)
-
-`#include<stdio.h>
+` for single line code  
+```
+#include<stdio.h>
 int main(){
 int a,b;
 printf("enter value");
 scanf("%d,%d",&a,&b);
-}`
+}
+```
 
 
