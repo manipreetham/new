@@ -106,7 +106,7 @@ Missing Dependencies:
 pip install --upgrade pip setuptools wheel
 ```
 📂 Project Structure
-text
+```
 mcq-project/
 ├── myenv/           # Python virtual environment
 ├── mcqproject/      # Django project
@@ -114,6 +114,7 @@ mcq-project/
 │   │   └── views.py # Contains API configuration
 │   └── manage.py    # Django management script
 └── requirements.txt # Dependencies
+```
 
 
 
